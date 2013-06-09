@@ -1,6 +1,6 @@
 <?
 /** PHP Model Generator is a command line tool aids to generate a domain model class according to the customized configuration file which user wrote.
-* @link http://prose.io/#yannbelief/php-model-generator/
+* @link https://github.com/yannbelief/php-model-generator
 * @author CHEN Yen Ming https://github.com/yannbelief/
 * @copyright 2013 CHEN Yen Ming
 * @license http://www.apache.org/licenses/LICENSE-2.0 Apache License, Version 2.0
